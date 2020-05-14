@@ -32,7 +32,7 @@ Step 2: Interpretation of results.
 
 Outline: Work in progress. Goal model for most faithful recolorizations.
 
-# Recommendations:
+# Recommendations/Future goals:
 
 Internal (for Florida Memory): Custom datasets adhering to the best images Florida Memory has to offer, in the most up-to-date file formats. Blogging to generate interest and support.
 
