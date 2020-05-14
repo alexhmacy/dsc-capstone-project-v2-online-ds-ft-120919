@@ -16,7 +16,7 @@ Dataset: https://www.kaggle.com/shravankumar9892/image-colorization
 
 # Convolutional Neural Network
 
-Step 1: Baseline CNN -- fully connected layers, with and without upsampling, pooling, etc.
+Step 1: Baseline CNN -- fully connected layers, with and without upsampling, pooling, etc.\n
 Step 2: Adapted CNN -- Keras' ImageDataGenerator for greater feature mapping; deeper learning.
 Step 3: Interpretation of results.
 
