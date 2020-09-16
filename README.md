@@ -3,6 +3,7 @@
 ## Convolutional Neural Nets, Autoencoders, and Generative Adversarial Networks
 
 Client: Florida Memory, the digital outreach program of the State Archives of Florida.
+
 Background: Florida Memory digitizes thousands of black and white photos a year for the State Archives. These images already enjoy success with the State Museum, and statewide historical organizations.
 
 Mission: Produce a model that can successfully colorize black and white photos, without a reduction to quality.
@@ -34,7 +35,7 @@ Outline: Work in progress. Goal model for most faithful recolorizations.
 
 # Recommendations/Future goals:
 
-Internal (for Florida Memory): Custom datasets adhering to the best images Florida Memory has to offer, in the most up-to-date file formats. Blogging to generate interest and support.
+Internal for Florida Memory: Custom datasets adhering to the best images Florida Memory has to offer, in the most up-to-date file formats. Blogging to generate interest and support.
 
-External (for the Data Scientist): More research into the pros/cons/potential of Autoencoders; then, a fully fledged Generative Adversarial Network. Afterwards, object detection/classification, and then portability either as a web service or API.
+External for the Data Scientist(s): More research into the pros/cons/potential of Autoencoders; then, a fully fledged Generative Adversarial Network. Afterwards, object detection/classification, and then portability either as a web service or API.
 
